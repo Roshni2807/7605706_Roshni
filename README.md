@@ -18,15 +18,12 @@ No source code but simple text files (or markdown files).
 * …
 
 
-### Dependencies
+## Dependencies
 
----
+```
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
