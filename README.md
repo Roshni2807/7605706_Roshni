@@ -20,11 +20,11 @@ No source code but simple text files (or markdown files).
 
 ## Dependencies
 
-```
+
 
 ## Help
 
-```
+
 
 ## Authors
  
@@ -32,8 +32,8 @@ No source code but simple text files (or markdown files).
 
 ## Version History
 
-* 0.1
-    * Initial Release
+* 0.1  
+        Initial Release
 
 ## License
 
